@@ -17,10 +17,11 @@ signed main(){
 ### Strings
 -------------
 ##### getline(cin,s);
-		fro it into s till enter is hit. so if the input is of 2 line , that is '/n' or any delimiter is there , the input ends at that point. Single line consider after that everything flush offed.
+
+for it into s till enter is hit. so if the input is of 2 line , that is '/n' or any delimiter is there , the input ends at that point. Single line consider after that everything flush offed.
 		
 
-#####  Usecase 2 : if you want to add n-> number to a string number ?
+##### Usecase 2 : if you want to add n-> number to a string number ?
 ```cpp
 #include<bits/c++.h>
 using namespace std;
@@ -42,7 +43,7 @@ signed main(){
 ```
 
 
-##### Usecase 3 :  Trick for conversion  datetype 1 -> datatype 2 
+##### Usecase 3 :  Trick for conversion  datatype 1 -> datatype 2 
 #Trick 
 ```cpp
 #include <iostream>

@@ -1,6 +1,6 @@
 #DSA 
 
-[_Problem solving fundas](_Problem%20solving%20fundas.pdf)
+[_Problem solving fundas](_pdf/_Problem%20solving%20fundas.pdf)
 
 - Site used for code execution : https://www.onlinegdb.com/ | use c++17
 - Beware about which language and version you use be clear with it
@@ -78,7 +78,7 @@ int main()
 #Trick #performance 
 
  #### Why '/n' is fast but endl is slow?
-![Pasted image 20241216072201](Pasted%20image%2020241216072201.jpg)
+![Pasted image 20241216072201](_images/Pasted%20image%2020241216072201.jpg)
  ```cpp
 	 #include <iostream>
 	 using namespace std;

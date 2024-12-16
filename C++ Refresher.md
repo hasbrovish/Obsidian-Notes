@@ -78,6 +78,7 @@ int main()
 #Trick #performance 
 
  #### Why '/n' is fast but endl is slow?
+ ![[Pasted image 20241216072201.jpg]]
  ```cpp
 	 #include <iostream>
 	 using namespace std;
@@ -90,7 +91,7 @@ int main()
 		 cin.tie(0); cout.tie(0);	
 	}
 	 
-	```
+```
  	  
-![[Pasted image 20241216072201.jpg]]
+
 

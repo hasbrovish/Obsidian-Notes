@@ -1,0 +1,118 @@
+#movie 
+- [ ] Black Swan
+- [ ] I, Tonya (2017)
+- [ ] Kill Bill 
+- [ ] The Wrestler
+- [ ] The art of Self Defense 
+- [ ] Full Metal Jacket
+- [ ] The Novice
+- [ ] Gattaca
+- [ ] Edge of Tm
+- [ ] Men Of Honor
+- [ ] Touch the void
+- [ ] Uncut gems
+- [ ] Million Dollar Baby
+- [ ] Bleed For This
+- [ ] The grey
+- [ ] Never Back Down
+- [ ] Offender
+- [ ] Law Abiding Citizen
+- [ ] Raging Bull 
+- [ ] The northman
+- [ ] The social netowrk
+- [ ] Apocalypto
+- [ ] The hunger games
+- [ ] EL Pipurris
+- [ ] The Theory of everything
+- [ ] Jiro Dreams of Sushi
+- [ ] full metal jacket
+- [ ] Peanut butter falcon
+- [ ] A Knight's Tale
+- [ ] The Right Stuff
+- [ ] First Man 
+- [ ] Apollo 13 
+- [ ] The Wind Rises
+- [ ] The Downfall
+- [ ] Snatch 
+- [ ] Amelie
+- [ ] The shawshank Redemption
+- [ ] Pride and prejudice
+- [ ] Second Hand lions
+- [ ] Hidden Figures
+- [ ] Angel-A
+- [ ] Warrior
+- [ ] Edge of tommorow
+- [ ] Spy Game
+- [ ] Drive
+- [ ] V for vendetta
+- [ ] Lost in Translation
+- [ ] Into the wild
+- [ ] The big Lebowski
+- [ ] Dark CIty 
+- [ ] Ice planet
+- [ ] The green mile 
+- [ ] mortadelo & Filemon: The big adventure
+- [ ] Flodder 3
+- [ ] Gettin' Square
+- [ ] Midnight Run 
+- [ ] The accountant
+- [ ] Slipstream(2005)
+- [ ] To kill a mockingbird
+- [ ] North by northwest
+- [ ] in the heat of the night
+- [ ] what the dear man heard
+- [ ] the simple life of noah dearborn 
+- [ ] short film - forklist driver klaus - the first day on the job 
+- [ ] childeren of men
+- [ ] Yesterday
+- [ ] Lord of the rings trilogy 
+- [ ] Inception
+- [ ] One Flew over the cuckoo's nest
+- [ ] Love Exposure
+- [ ] Flight club 
+- [ ] Phonebooth 
+- [ ] Idiocracy 
+- [ ] holy Motors
+- [ ] Fresh 
+- [ ] Blink Twice 
+- [ ] Tokyo Story 
+- [ ] Nema-ye nazdik 
+- [ ] Cloud Atlas 
+- [ ] Kimi no na wa 
+- [ ] Breaking Away
+- [ ] Everything Everywhere all at once
+- [ ] the matrix
+- [ ] wierd : The AL yankovic Story 
+- [ ] Plup Fiction 
+- [ ] Shutter Island
+- [ ] Solaris
+- [ ] Rashomon 
+- [ ] Doctor Strange love
+- [ ] Band of Outsiders
+- [ ] Grand Illusion
+- [ ] Metropolis
+- [ ] Repo Man 
+- [ ] Network 
+- [ ] Groundhog Day
+- [ ] A man for all seasons
+- [ ] The Imaginarium of Doctor Parnassus
+- [ ] The prestige
+- [ ] In no particular order:
+- [ ] 12 Angry Men
+- [ ] Princess Bride
+- [ ] Shawshank Redemption
+- [ ] Ferris Bueller's Day Off
+- [ ] My Cousin Vinnie
+- [ ] Gataca
+- [ ] Fifth element
+- [ ] Memento
+- [ ] The Silence 
+- [ ] Bergman
+- [ ] Casablanca
+- [ ] Brazil
+- [ ] The princess bride
+- [ ] Most of shwarzenegger starred films.
+- [ ] Most of Zemekis works.
+- [ ] Early Cameron works.
+- [ ] Some Tim Burton’s works.
+- [ ] Leon

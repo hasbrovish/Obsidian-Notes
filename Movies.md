@@ -19,7 +19,7 @@
 - [ ] Law Abiding Citizen
 - [ ] Raging Bull 
 - [ ] The northman
-- [ ] The social netowrk
+- [x] The social netowrk
 - [ ] Apocalypto
 - [ ] The hunger games
 - [ ] EL Pipurris
@@ -34,8 +34,8 @@
 - [ ] The Wind Rises
 - [ ] The Downfall
 - [ ] Snatch 
-- [ ] Amelie
-- [ ] The shawshank Redemption
+- [x] Amelie
+- [x] The shawshank Redemption
 - [ ] Pride and prejudice
 - [ ] Second Hand lions
 - [ ] Hidden Figures

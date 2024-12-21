@@ -1,4 +1,4 @@
-#DSA 
+#DSA #AZ 
 
 [_Problem solving fundas](_pdf/_Problem%20solving%20fundas.pdf)
 

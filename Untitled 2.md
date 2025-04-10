@@ -1,1 +1,0 @@
-https://www.linkedin.com/posts/tannika-majumder-424a5040_back-in-2013-while-working-at-infosys-i-activity-7300111373458382849-g0q6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACMc-qkBV5sX3GB3N52cYumHI2TlHEKDDgk

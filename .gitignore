@@ -1,3 +1,9 @@
 .obsidian/
 .trash/
 **Office**
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
